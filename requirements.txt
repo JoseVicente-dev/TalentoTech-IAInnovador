@@ -1,0 +1,15 @@
+# Para instalar las librerías usar: >pip install -r requirements.txt
+sklearn
+
+
+
+
+#####################################################
+# Crear el virtual environment: >python -m venv <venv_name>
+
+#Para activar el virtual environment usar:
+# In cmd.exe: >venv\Scripts\activate.bat
+# In PowerShell: >venv\Scripts\Activate.ps1
+
+#Para desactivar el virtual environment usar:
+# >deactivate
