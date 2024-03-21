@@ -10,5 +10,13 @@
 #####################################################
 
 # Para instalar las librerías usar: >pip install -r requirements.txt
-jupyter 
+jupyter
+tensorflow
 keras
+
+#####################################################
+#Actualizar el keras, ejecutar los siguientes comandos en orden secuencial ( Ver documentación en https://keras.io/getting_started/):
+# pip install --upgrade keras-cv
+# pip install --upgrade keras-nlp
+# pip install --upgrade keras
+#####################################################
