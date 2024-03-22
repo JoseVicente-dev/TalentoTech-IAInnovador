@@ -13,6 +13,8 @@
 jupyter
 tensorflow
 keras
+pandas
+matplotlib
 
 #####################################################
 #Actualizar el keras, ejecutar los siguientes comandos en orden secuencial ( Ver documentación en https://keras.io/getting_started/):
